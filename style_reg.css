@@ -1,0 +1,30 @@
+
+body {
+    
+    background-image: url(https://cq.ru/storage/uploads/posts/1644705/1.jpg);
+    background-size: 1530px; 
+    background-attachment: fixed;
+    
+}
+
+header {
+    width: 80%;
+    margin-top: 60px;
+    margin-left: 10%;
+}
+
+.containerq {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+    width: 80%;
+    height: 600px;
+    background-image: linear-gradient(#adb5bd, #ffffff);
+    margin-left: 10%;
+
+}
+
+.content {
+    margin-top: 110px;
+    width: 500px;
+}

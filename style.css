@@ -1,0 +1,59 @@
+
+body {
+    
+    background-image: url(https://cdn-wp.thesportsrush.com/2023/06/984fcd00-herta.jpg);
+    background-size: 1530px; 
+    background-attachment: fixed;
+    
+}
+
+header {
+    width: 80%;
+    margin-top: 60px;
+    margin-left: 10%;
+}
+
+
+
+.containerq {
+    display: flex;
+    
+    margin-bottom: 60px;
+    width: 80%;
+    height: 1500px;
+    background-image: linear-gradient(#adb5bd, #8cb2d1);
+    margin-left: 10%;
+
+}
+
+.content {
+    padding: 35px;
+}
+
+.card-deck {
+    padding: 70px;
+    margin-top: 10px; 
+}
+
+.list-group-item:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease; 
+    box-shadow: -1px -2px 20px 5px rgba(50, 50, 50, 0.68);
+  }
+
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease; 
+    box-shadow: -1px -2px 20px 5px rgba(0, 0, 0, 0.68);
+  }
+
+.in_center {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+h2 {
+    text-align: center;
+}
